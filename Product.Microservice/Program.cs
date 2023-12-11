@@ -28,7 +28,6 @@ namespace Product.Microservice
 
             app.UseAuthorization();
 
-
             app.MapControllers();
 
             app.Run();
